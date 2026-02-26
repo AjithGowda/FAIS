@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-groq
+langsmith
+langserve
+python-dotenv
+requests
+fastapi
+uvicorn
+sse_starlette
+pypdf
+sentence-transformers
+faiss-cpu
