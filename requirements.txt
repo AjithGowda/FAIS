@@ -14,3 +14,4 @@ sse_starlette
 pypdf
 sentence-transformers
 faiss-cpu
+langgraph
